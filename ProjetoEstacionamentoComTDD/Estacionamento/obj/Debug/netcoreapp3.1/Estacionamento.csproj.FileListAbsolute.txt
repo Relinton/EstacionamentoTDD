@@ -1,0 +1,14 @@
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\bin\Debug\netcoreapp3.1\Estacionamento.exe
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\bin\Debug\netcoreapp3.1\Estacionamento.deps.json
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\bin\Debug\netcoreapp3.1\Estacionamento.runtimeconfig.json
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\bin\Debug\netcoreapp3.1\Estacionamento.runtimeconfig.dev.json
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\bin\Debug\netcoreapp3.1\Estacionamento.dll
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\bin\Debug\netcoreapp3.1\Estacionamento.pdb
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.csproj.AssemblyReference.cache
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.AssemblyInfoInputs.cache
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.AssemblyInfo.cs
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.csproj.CoreCompileInputs.cache
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.dll
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.pdb
+D:\RelintonSistemas\ProjetoEstacionamentoComTDD\Estacionamento\obj\Debug\netcoreapp3.1\Estacionamento.genruntimeconfig.cache
